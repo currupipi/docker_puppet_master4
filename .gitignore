@@ -1,7 +1,12 @@
 #Exclude virtualenv files
-
 bin/*
 include/*
 lib/*
 local/*
 share/*
+
+#Exclude pip files
+pip-selfcheck.json
+
+#Exclude vim files
+*.swp
