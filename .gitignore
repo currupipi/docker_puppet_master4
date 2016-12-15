@@ -1,0 +1,7 @@
+#Exclude virtualenv files
+
+bin/*
+include/*
+lib/*
+local/*
+share/*
